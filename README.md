@@ -1,5 +1,4 @@
 # 🧑💻 Hi, I'm **Ilia Rezaei**!  
-<img src="https://avatars.githubusercontent.com/u/114234241?v=4" alt="Ilia Rezaei" style="border-radius: 50%; width: 150px; float: right; margin-left: 20px;">  
 
 **🇮🇷 Full-Stack Developer from Yazd | Laravel Ecosystem Specialist**  
 
