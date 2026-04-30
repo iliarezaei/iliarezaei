@@ -67,5 +67,5 @@ echo $motto->build(new Laravel());
 
 <div style="text-align: center;">
   <h3>Yazd❤️</h3>
-  <img src="https://yazdarghotel.com/wp-content/uploads/2024/04/Sightseeing-places-in-Yazd.jpg" alt="Yazd" style="border-radius: 10px; max-width: 600px;">
+  <img src="https://thesanetravel.com/images/NewTravels/Yazd/66-rafieian-house-yazd-thesanetravel.com-P1180760.jpg" alt="Yazd" style="border-radius: 10px; max-width: 600px;">
 </div>
