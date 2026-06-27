@@ -91,7 +91,7 @@ Today my focus is more on **operations, deployment, networking, and infrastructu
 
 ---
 
-##🧠 Philosophy
+🧠 Philosophy
 
 Infrastructure first.
 Automation where possible.
