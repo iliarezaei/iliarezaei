@@ -91,22 +91,21 @@ Today my focus is more on **operations, deployment, networking, and infrastructu
 
 ---
 
-## 🧠 Philosophy
+##🧠 Philosophy
 
-```text
 Infrastructure first.
 Automation where possible.
 Reliability always.
 
----
-
-<div align="center">Yazd ❤️
+<div align="center">
+  <h3>Yazd ❤️</h3>
 
 <img
-src="https://thesanetravel.com/images/NewTravels/Yazd/66-rafieian-house-yazd-thesanetravel.com-P1180760.jpg"
-width="900"
+ src="https://thesanetravel.com/images/NewTravels/Yazd/66-rafieian-house-yazd-thesanetravel.com-P1180760.jpg"
+ width="800"
+ style="border-radius:12px;"
 />
 
-</div>---
+</div>
 
 ⭐ From Software → Networks → Infrastructure → Reliability
